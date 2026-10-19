@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0523-continuous-subarray-sum) |
+| [1952-three-divisors](https://github.com/Shreeshail383/leetcode-Problems/tree/master/1952-three-divisors) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0258-add-digits) |
+| [1952-three-divisors](https://github.com/Shreeshail383/leetcode-Problems/tree/master/1952-three-divisors) |
 ## Recursion
 |  |
 | ------- |
@@ -162,4 +164,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0242-valid-anagram) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Shreeshail383/leetcode-Problems/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Shreeshail383/leetcode-Problems/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Shreeshail383/leetcode-Problems/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
