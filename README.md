@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0904-fruit-into-baskets) |
+| [0912-sort-an-array](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0912-sort-an-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shreeshail383/leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0242-valid-anagram) |
+| [0912-sort-an-array](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0912-sort-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0239-sliding-window-maximum) |
+| [0912-sort-an-array](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0912-sort-an-array) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -176,4 +179,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/Shreeshail383/leetcode-Problems/tree/master/1952-three-divisors) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
