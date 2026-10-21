@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0239-sliding-window-maximum) |
+| [0414-third-maximum-number](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0242-valid-anagram) |
+| [0414-third-maximum-number](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0414-third-maximum-number) |
 | [0912-sort-an-array](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0912-sort-an-array) |
 ## Greedy
 |  |
