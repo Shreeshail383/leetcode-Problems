@@ -5,5 +5,6 @@ class Solution:
         lastdigit = self.fib(n - 1)
         slastdigit = self.fib(n - 2)
         return lastdigit + slastdigit
+    
 
         
