@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0523-continuous-subarray-sum) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
