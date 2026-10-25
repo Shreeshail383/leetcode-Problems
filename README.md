@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0485-max-consecutive-ones) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0268-missing-number) |
 | [0713-subarray-product-less-than-k](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shreeshail383/leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0414-third-maximum-number) |
 | [0912-sort-an-array](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0912-sort-an-array) |
 ## Greedy
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0904-fruit-into-baskets) |
@@ -154,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [1952-three-divisors](https://github.com/Shreeshail383/leetcode-Problems/tree/master/1952-three-divisors) |
@@ -214,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0912-sort-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
