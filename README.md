@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0217-contains-duplicate) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0268-missing-number) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0268-missing-number) |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0169-majority-element) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0992-subarrays-with-k-different-integers) |
 ## Matrix
 |  |
@@ -206,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -228,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0268-missing-number) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Shreeshail383/leetcode-Problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
